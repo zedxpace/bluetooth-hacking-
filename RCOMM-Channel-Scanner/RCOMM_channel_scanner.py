@@ -1,5 +1,5 @@
 import lightblue
-from signal import signal ,SIGALARM ,alarm
+from signal import signal ,SIGALRM ,alarm
 import sys
 
 channel_status = 0
@@ -10,7 +10,7 @@ def sig_alarm_handler(signum ,frame):
     global got_timeout
     got_timeout = True
 
-signal(SIGALARM ,sig_alarm_handler)
+signal(SIGALRM ,sig_alarm_handler)
 
 if len(sys.argv) < 2:
     print("Usage : " + sys.argv[0] + "<addr>")
