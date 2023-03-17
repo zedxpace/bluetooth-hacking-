@@ -3,7 +3,7 @@ This repository contains scripts in python from discovering bluetooth to taking 
 
 you can find all the documents of the repo as well as other hacks in this blog.
 
-    <table class="styled-table" style="margin: 0px auto;width:140%">
+    <table style="margin: 0px auto;">
         <thead>
             <tr >
                 <th>SECURING SYSTEM</th>
