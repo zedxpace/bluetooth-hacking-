@@ -67,7 +67,7 @@ table style="margin: 0px auto;">
     <td></td>
     <td>7. <a href="https://www.codexpace.in/2022/07/bluetooth-spoofing.html">Bluetooth spoofing</a></td>
 </tr>
-    <tr >
+    <tr>
     <td></td>
     <td>8. <a href="https://www.codexpace.in/2022/07/bluetooth-sniffing.html">Bluetooth sniffing</a></td>
 </tr>
