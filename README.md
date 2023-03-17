@@ -4,7 +4,7 @@ This repository contains scripts in python from discovering bluetooth to taking 
 you can find all the documents of the repo as well as other hacks in this blog.
 table style="margin: 0px auto;">
 <thead>
-    <tr >
+    <tr>
         <th>SECURING SYSTEM</th>
         <th>BLUETOOTH ATTACKS</th>
         <th>STEALING AND SNIFFING ATTACKS</th>
@@ -27,7 +27,7 @@ table style="margin: 0px auto;">
 
 
 </tr>
-<tr >
+<tr>
     <td>2. <a href='https://www.codexpace.in/2022/02/sandbox-detection.html'>SandBox Detection</a></td>
     <td>2. <a href="https://www.codexpace.in/2022/07/sdpservice-discovery-protocol-browser.html">Bluetooth SDP browsing</a></td>
     <td>2. <a href="https://www.codexpace.in/2022/04/sniffer-with-no-filter.html">Sniffing packets</a></td>
@@ -35,7 +35,7 @@ table style="margin: 0px auto;">
     <td>2. <a href="https://www.codexpace.in/2022/06/revershell-with-python.html">Reverse shell in python</a></td>
 
 </tr>
-<tr >
+<tr>
     <td>3. <a href='https://www.codexpace.in/2022/03/tcp-proxy.html'>TCP Proxy</a></td>
     <td>3. <a href="https://www.codexpace.in/2022/07/obex-object-exchange.html">Bluetooth OBEX</a></td>
     <td>3. <a href="https://www.codexpace.in/2022/04/sniffer-for-email-credentials.html">Email Credential sniffers </a></td>
@@ -43,7 +43,7 @@ table style="margin: 0px auto;">
     <td>3. <a href='https://www.codexpace.in/2021/11/python-keylogger.html'>Keylogger</a></td>
 
 </tr>
-<tr >
+<tr>
     <td></td>
     <td>4. <a href="https://www.codexpace.in/2022/07/rcomm-channel-scanner.html">Bluetooth RCOMM channel scanner</a></td>
     <td></td>
@@ -51,7 +51,7 @@ table style="margin: 0px auto;">
     <td>4. <a href='https://www.codexpace.in/2022/01/screenshot-with-python.html'>Screenshot with Python</a></td>
 
 </tr>
-<tr >
+<tr>
     <td></td>
     <td>5. <a href="https://www.codexpace.in/2022/07/blue-bug-exploit.html">Blue Bug Exploit</a></td>
     <td></td>
@@ -59,11 +59,11 @@ table style="margin: 0px auto;">
     <td>5. <a href='https://www.codexpace.in/2022/06/revershell-with-python.html'>Backdoor with Python</a></td>
 
 </tr>
-<tr >
+<tr>
     <td></td>
     <td>6. <a href="https://www.codexpace.in/2022/07/blue-snarf-exploit.html">Blue Snarf Exploit</a></td>
 </tr>
-<tr >
+<tr>
     <td></td>
     <td>7. <a href="https://www.codexpace.in/2022/07/bluetooth-spoofing.html">Bluetooth spoofing</a></td>
 </tr>
